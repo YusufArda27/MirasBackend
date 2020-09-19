@@ -21,43 +21,43 @@
         "title":"Ulu Camii",
         "about":"Niğbolu Zaferi’nin ardından Yıldırım Beyazıd tarafından yaptırılan Ulu Cami’nin inşası, 1399 yılında tamamlanmıştır. Şehrin merkezi konumu olan Atatürk Caddesi üzerinde bulunan cami, deprem, yangın gibi türlü hasarlar görmüş ve bunların üzerine restore edilerek şuan ki görünümüne kavuşmuştur.",
         "adress":"Nalbantoğlu, Atatürk Cd., 16010 Osmangazi/Bursa",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
+        "ziyaret":"24 saat"
     },
     {
-        "title":"Üftade Camii",
+        "title":"Mudanya Mütareke Evi Müzesi",
+        "about":"Mudanya ilçesinin merkezinde bulunan ve 19. yüzyıl sonlarıyla tarihlendirilen müze, 1937 yılında Mudanya Belediyesi’ne bağlı olarak açılmış, 1959 yılında ise Eski Eserler ve Müzeler Genel Müdürlüğü’ne devredilmiştir. TBMM Hükümeti’nin siyasi olarak kazandığı ilk başarının göstergesi olan Mudanya Mütarekesi bu evde imzalanmıştır.",
+        "adress":"Mütareke, 12 Eylül Cad. No:8, 16940 Mudanya/Bursa",
+        "ziyaret":"08:00-18:30"
+    },
+    {
+        "title":"Üftade Cami",
         "about":"1580 yılında vefat eden Üftade Mahmud Muhiddin tarafından Uludağ’ın yamacındaki dik bir arazi üzerine yaptırılan Üftade Camisi, 1855 yılında gerçekleşen depremde zarar görmüş ve Serazkar Rıza Paşa 1869’da restore edilmiştir.",
-        "adress":"Anadolu Hisarı Mh., 34810 Beykoz/İstanbul",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
+        "adress":"Kavaklı, Üftade Sk. No:10, 16040 Osmangazi/Bursa",
+        "ziyaret":"24 saat"
     },
     {
-        "title":"Anadolu Hisarı (Güzelcehisar)",
-        "about":"İstanbul Boğazı’nın Asya kıtasındaki kıyılarında konumlanan Anadolu Hi        sarı; 1395 yılında Sultan Beyazıt tarafından inşa ettirilen bir tarihi eserdir.",
-        "adress":"Anadolu Hisarı Mh., 34810 Beykoz/İstanbul",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
+        "title":"Türk İslam Eserleri Müzesi",
+        "about":"Çelebi Sultan Mehmet’in 1419 yılında Yeşil Türbe’nin binalarından biri olarak imaret, cami, türbe ve han ile birlikte yaptırdığı Yeşil Medrese, 1975 yılından beri Türk İslam Eserleri Müzesi olarak hizmet veriyor. Müzede 12. ve 20. yüzyıllar arasındaki maden, ahşap, el yazması kitaplar, seramik, etnografik malzemeler, mezar taşları, silah, işleme, kitabeler ve sikkeler var.",
+        "adress":"Yeşil, 1. Yeşil Cd. No:56, 16360 Yıldırım/Bursa",
+        "ziyaret":"10:00-17:00"
     },
     {
-        "title":"Anadolu Hisarı (Güzelcehisar)",
-        "about":"İstanbul Boğazı’nın Asya kıtasındaki kıyılarında konumlanan Anadolu Hi        sarı; 1395 yılında Sultan Beyazıt tarafından inşa ettirilen bir tarihi eserdir.",
-        "adress":"Anadolu Hisarı Mh., 34810 Beykoz/İstanbul",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
+        "title":"Orhan Gazi Türbesi",
+        "about":"Osmanlı Devleti’nin ikinci padişahı olan Orhan Gazi 1281-1362 arasında yaşamış olup Bursa ve çevresini Bizanslılardan almış devlet teşkilatlarını oluşturmuştur. ",
+        "adress":"Osmangazi, Yiğitler Cd., 16040 Osmangazi/Bursa",
+        "ziyaret":"08:00-19:30 **Pazar günleri kapalı**"
     },
     {
-        "title":"Anadolu Hisarı (Güzelcehisar)",
-        "about":"İstanbul Boğazı’nın Asya kıtasındaki kıyılarında konumlanan Anadolu Hi        sarı; 1395 yılında Sultan Beyazıt tarafından inşa ettirilen bir tarihi eserdir.",
-        "adress":"Anadolu Hisarı Mh., 34810 Beykoz/İstanbul",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
+        "title":"Yeşil Türbe ",
+        "about":"Caminin tam karşısında yer alan Yeşil Türbe‘de aynı mimar Hacı İvaz Paşa tarafından inşa edilmiştir. Türbenin süslemelerine Nakkaş Ali ve Nakkaş Mehmed el Mecnun yardımcı olmuşlardır. Zamanla çeşitli sebeplerden dolayı hasar gören türbe, 1945 yılında Mimar Macit Rüştü Kural tarafından yenilenerek restore edilmiş.",
+        "adress":"Çekirge, 16070 Osmangazi/Bursa",
+        "ziyaret":"24 saat"
     },
     {
-        "title":"Anadolu Hisarı (Güzelcehisar)",
-        "about":"İstanbul Boğazı’nın Asya kıtasındaki kıyılarında konumlanan Anadolu Hi        sarı; 1395 yılında Sultan Beyazıt tarafından inşa ettirilen bir tarihi eserdir.",
-        "adress":"Anadolu Hisarı Mh., 34810 Beykoz/İstanbul",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
-    },
-    {
-        "title":"Anadolu Hisarı (Güzelcehisar)",
-        "about":"İstanbul Boğazı’nın Asya kıtasındaki kıyılarında konumlanan Anadolu Hi        sarı; 1395 yılında Sultan Beyazıt tarafından inşa ettirilen bir tarihi eserdir.",
-        "adress":"Anadolu Hisarı Mh., 34810 Beykoz/İstanbul",
-        "ziyaret":"Ziyaret açık olmamakla birlikte sadece Hisarlar Müzesi Müdürlüğü’nün        izni ile girilebilir."
+        "title":"Süleyman Paşa Medresesi ",
+        "about":"İznik merkezde, Orhan Gazi’nin büyük oğlu “Rumeli Fatihi” olarak adlandırılan Şehzade Süleyman Şah tarafından yaptırılan medresenin, 1335-1359 tarihlerinde yapıldığı düşünle de bu konu hakkında net bilgi bulunmamaktadır",
+        "adress":"Yeni, 16890 İznik/Bursa",
+        "ziyaret":"08:00 – 17:00"
     }
 
     
