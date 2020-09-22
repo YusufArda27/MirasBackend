@@ -1,8 +1,9 @@
 const express = require('express');
+var cors = require('cors');
 const app = express();
 const data = require("./data.json");
 let port = process.env.PORT || 8000;
-
+app.use(cors())
 app.get("/",(req,res)=>{
     res.send(data)
 });
