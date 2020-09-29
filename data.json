@@ -69,6 +69,22 @@
         "adress":"Yeni, 16890 İznik/Bursa",
         "location":"https://goo.gl/maps/dfdH3p5wQ2RnrGgY9",
         "ziyaret":"08:00 – 17:00"
+    },
+    {
+        "title":"Topkapı Sarayıi",
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.xhpoZ-Ui8x6Hgt8uuffH4QHaEK%26pid%3DApi&f=1",
+        "about":" Osmanlı’nın gücünün bütün dünyaya gösteren heybetli bir yönetim merkezi olarak inşa edilen Topkapı Sarayı, Fatih Sultan Mehmet döneminde 1478 senesinde tamamlanmıştır. Kompleks bi yapıya sahip olan saray, Bab-ı Hümayun, Divan Meydanı, Alay Meydanı, Enderun Avlusu, Sofa-i Humayun, Harem olmak üzere 6 ana bölümden oluşmaktadır. Sarayın 8 giriş kapısı bulunmaktadır ve en gösterişli olanı şüphesiz “Saltanat Kapısı”dır.",
+        "adress":"Cankurtaran, 34122 Fatih/İstanbul",
+        "location":"https://goo.gl/maps/29qytsLToq1hCLacA",
+        "ziyaret":"08:00 – 17:00"
+    },
+    {
+        "title":"Haydarpaşa Garı",
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.10pqDR2Wuijt6aSCvANcgAHaFW%26pid%3DApi&f=1",
+        "about":"1906 senesinde II. Abdülhamit tarafından inşasına başlanan Haydarpaşa Garı, Anadolu Bağdat adında Alman bir şirket tarafından 1908‘de tamamlanmış.Haydarpaşa Garı’nın yapılmasının amacı ise İstanbul – Bağdat Demiryolu’nun başlangıç noktası olarak düşünülmesiydi.",
+        "adress":"Rasimpaşa Mah., Kadıköy",
+        "location":"https://goo.gl/maps/FgXLXUmoC35gVQP79",
+        "ziyaret":"08:00 – 17:00"
     }
 
 ]
